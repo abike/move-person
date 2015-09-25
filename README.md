@@ -1,3 +1,2 @@
-# move-person
-html5 canvas person move
+html5 canvas person's movement 
 
